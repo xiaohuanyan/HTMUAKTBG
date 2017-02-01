@@ -1,4 +1,5 @@
 # 全书目录
+- [00.准备工具](00_preparing the Tools.md)
 - [01.新建云端Repo](01_create  new file in the cloud.md)
 - [02.新建本地Repo](02_create  new file in the local.md)
 - [03.配置编辑器](03_Configuration editor.md)
